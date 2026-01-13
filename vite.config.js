@@ -3,8 +3,8 @@ import react from "@vitejs/plugin-react"
 
 export default defineConfig({
   plugins: [react()],
-  base: "/serious-study-series/",
+  base: "./",
   build: {
-    outDir: "docs"
-  }
+    outDir: "docs",
+  },
 })
