@@ -126,7 +126,7 @@ export default function App() {
           <h2 className="text-5xl font-extrabold bg-gradient-to-r from-sky-400 to-blue-600 bg-clip-text text-transparent tracking-widest">
             SERIOUS STUDY SERIES
           </h2>
-          <p className="text-slate-400 mt-2">Accountancy</p>
+          <p className="text-slate-400 mt-2">12th COMMERCE/SCIENCE</p>
           <p className="text-xs text-slate-500 mt-1">
             Today: {today.toDateString()}
           </p>
